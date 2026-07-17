@@ -1,17 +1,4 @@
-<h1 align="center">🎥 OpenCV Python Tutorial Series</h1>
 
-<p align="center">
-  A beginner-to-advanced, section-by-section guide to OpenCV with Python — with explained, copy-paste-ready code.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/OpenCV-4.x-5C3EE8?logo=opencv&logoColor=white" alt="OpenCV">
-  <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License">
-  <img src="https://img.shields.io/badge/Status-In%20Progress-yellow" alt="Status">
-</p>
-
----
 
 ## 📖 About
 
